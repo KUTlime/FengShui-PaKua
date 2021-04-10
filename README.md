@@ -5,10 +5,10 @@
 
 ## How to use it?
 
-1. Download the script Set-PuKuaToImage.ps1
-2. Run the script in PowerShell (Right Mouse Button on the script -> Run in PowerShell)
+1. Download the folder `PaKua to image` or the scripts from this folder to your computer.
+2. Run the script `Insert-PaKua.bat`.
 3. Enter the source image and the output image.
-4. That's it.
+4. That's it. 
 
 ## Sample output
 
