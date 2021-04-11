@@ -1,1 +1,1 @@
-Powershell.exe -ExecutionPolicy Bypass -File Set-PaKuaToImage.ps1
+Powershell.exe -ExecutionPolicy Bypass -NoProfile -NoLogo -File Set-PaKuaToImage.ps1
